@@ -134,7 +134,7 @@ const skills = [
     });
 
     // GitHub API - Pegar repositórios
-    const token = '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';
+    const token = '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';
     const username = 'EnricoHidalgo';
     const projectsGrid = document.querySelector('.projects-grid');
     
